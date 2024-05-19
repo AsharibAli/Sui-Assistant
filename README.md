@@ -34,6 +34,8 @@ Developers want to build on Sui but lack an interactive way to quickly and easil
 - **OpenAI Whisper API for Speech-to-Text**: Supports speech recognition to deliver a multi-modal experience.
 - **LangSmith API for Chatbot Analysis**: Analyzes chatbot interactions for optimization and refinement.
 
+![SuiFlowChart](./public/SuiGPT-flowchart.png)
+
 ➡️ **[Deployed on Vercel, Live Demo](https://suigpt.vercel.app/)** <br>
 ➡️ **[SuiGPT Full CodeBase](https://github.com/AsharibAli/SuiGPT)** <br>
 ➡️ **[Prompt used for Assistant Training](./data/prompt-engineering/prompt-engineering.md)** <br>
