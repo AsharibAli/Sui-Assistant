@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title:
     "SuiGPT 🤖 - Help Developers to Build on Sui 👨‍💻 - For Sui Ecosystem ✨",
   description:
-    "Sui is an AI ChatBot trained on Sui Blockchain & It's Ecosystem Data to help Developers to build on the top of Sui.",
+    "Sui is an AI chatbot trained on Sui Blockchain and its ecosystem data to help developers build on top of Sui.",
 };
 
 export default function RootLayout({

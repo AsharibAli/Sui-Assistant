@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SuiGPT - Smart AI Assistant for Web3 Developers to build on Sui 🤖
 
-## Getting Started
+**(➡️ This project is a submission to the Sui Overflow Hackathon 👨‍💻)**
 
-First, run the development server:
+<br>
+<p style="text-align: center" align="center">
+<a href="https://ibb.co/cg42Yh9"><img src="https://i.ibb.co/M2FPBkH/sui-hackathon.png" alt="sui-hackathon" border="0"></a>
+<div align="center">✨ SuiGPT 🔥</p>
+</div>
+<br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Project Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**SuiGPT** is a highly trained assistant that provides in-depth insights about the Sui Blockchain and its ecosystem projects. It answers queries with precision, making complex Sui topics accessible to **newcomers, researchers, enthusiasts, and developers.** <br>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+SuiGPT assists developers in building dapps on the Sui Blockchain using the Move Programming Language for smart contract development through a conversational UI, powered by **OpenAI Assistants and the GPT-4o model.** <br>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+It helps developers code, fix, and test their smart contracts written in Move to build web3 applications on Sui. Simply enter a prompt in the UI to get accurate answers. Specially designed for the Sui community of developers and ecosystem projects, SuiGPT was developed by Asharib Ali as a submission for the **"Sui Overflow Hackathon"** <br>
 
-## Learn More
+**SuiGPT** offers many great features to help developers build and ship quickly on **Sui Blockchain.** <br>
 
-To learn more about Next.js, take a look at the following resources:
+## Problem Statement with Solution
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Developers want to build on Sui but lack an interactive way to quickly and easily create full-stack web3 applications. They might use ChatGPT, but it's trained on outdated data and doesn't know about the latest developments. Plus, GPT Plus costs $20 per month. That's why we need a platform/chatbot to address this issue: "Help developers write, fix, and test their smart contracts in Move for the Sui Blockchain" in a conversational way. I have trained it on a massive amount of Sui Codebase & Ecosystem projects data for building on Sui and have prompt-engineered it to achieve the best results.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Tech Stack
 
-## Deploy on Vercel
+- **OpenAI Assistant APIs**: Powers the natural language processing abilities to deliver accurate responses and maintain a conversational style with (function calling, code interpreter, and file search).
+- **FlowiseAI**: Enables visual programming to streamline the development of conversational AI workflows.
+- **Next.js, TypeScript, TailwindCSS**: Provides a seamless, dynamic user interface with a consistent design.
+- **OpenAI GPT-4o and Moderation APIs**: Handles advanced chatbot responses and content moderation.
+- **Google Custom Search API**: Allows the chatbot to fetch relevant information online to provide up-to-date answers.
+- **Custom Training Data with Prompt Engineering**: Ensures precise responses through well-crafted prompts and curated data.
+- **OpenAI Whisper API for Speech-to-Text**: Supports speech recognition to deliver a multi-modal experience.
+- **LangSmith API for Chatbot Analysis**: Analyzes chatbot interactions for optimization and refinement.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+➡️ **[Deployed on Vercel, Live Demo](https://suigpt.vercel.app/)** <br>
+➡️ **[SuiGPT Full CodeBase](https://github.com/AsharibAli/SuiGPT)** <br>
+➡️ **[Prompt used for Assistant Training](./data/prompt-engineering/prompt-engineering.md)** <br>
+➡️ **[Sui Move Code Data examples for Training](./data/sui-codebase/)** <br>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Future Improvements
+
+**Expanded Knowledge Base:** Improve the ChatBot with additional Sui or Move resources for more comprehensive technical/coding answers.
