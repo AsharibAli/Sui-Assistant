@@ -44,3 +44,4 @@ Developers want to build on Sui but lack an interactive way to quickly and easil
 ## Future Improvements
 
 **Expanded Knowledge Base:** Improve the ChatBot with additional Sui or Move resources for more comprehensive technical/coding answers.
+**Community Analytics:** Access real-time community sentiment about the Sui Blockchain & It's ecosystem projects through metrics from X and other social platforms.
