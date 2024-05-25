@@ -8,7 +8,7 @@ const SuiAssistantPopup = () => {
     script.type = "module";
     script.innerHTML = `import Chatbot from "https://cdn.jsdelivr.net/gh/AsharibAli/FlowiseChatEmbed@latest/dist/web.js"
     Chatbot.init({
-      chatflowid: "9cd49160-39d1-458f-8989-01d02b9dca2c",
+      chatflowid: "e8564835-ffcb-41c6-8f6c-7e585a710702",
       apiHost: "https://flowise-r1c3.onrender.com",
       theme: {
         button: {
