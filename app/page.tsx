@@ -40,7 +40,7 @@ const SuiAssistant = () => {
                   textColor: "#ffffff",
                   showAvatar: true,
                   avatarSrc:
-                    "https://raw.githubusercontent.com/AsharibAli/project-images/main/Sui Assistant-logo.webp",
+                    "https://raw.githubusercontent.com/AsharibAli/project-images/main/SuiAssistant-logo.webp",
                 },
                 userMessage: {
                   backgroundColor: "#000000",
