@@ -43,5 +43,4 @@ Developers want to build on Sui but lack an interactive way to quickly and easil
 
 ## Future Improvements
 
-**Expanded Knowledge Base:** Improve the ChatBot with additional Sui or Move resources and quality data for more comprehensive technical answers.
-
+**Expanded Knowledge Base:** Improve the ChatBot with additional Sui or Move resources for more comprehensive technical/coding answers.
