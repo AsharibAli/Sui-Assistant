@@ -6,12 +6,11 @@ const Celestia = () => {
     // Check if the script is already loaded
     if (
       !document.querySelector(
-        'script[src="https://cdn.jsdelivr.net/gh/AsharibAli/FlowiseChatEmbed@latest/dist/web.js"]'
+        'script[src="https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"]'
       )
     ) {
       const script = document.createElement("script");
-      script.src =
-        "https://cdn.jsdelivr.net/gh/AsharibAli/FlowiseChatEmbed@latest/dist/web.js";
+      script.src = "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js";
       script.type = "module";
       script.async = true;
       script.onload = () => {
@@ -32,7 +31,7 @@ const Celestia = () => {
                 title:
                   "SuiGPT 🤖 - Help Developers to Build on Sui 👨‍💻 - For Sui Ecosystem ✨",
                 welcomeMessage:
-                  "Welcome to the SuiGPT! I'm here to assist you with any questions you have about the Sui, and It's Ecosystem Projects.",
+                  "Welcome to the SuiGPT! I'm here to assist you with any programming or general questions you have about the Sui, and It's Ecosystem Projects.",
                 backgroundColor: "#ffffff",
                 fontSize: 16,
                 poweredByTextColor: "#000000",
@@ -56,6 +55,15 @@ const Celestia = () => {
                   textColor: "#000000",
                   sendButtonColor: "#4da2ff",
                 },
+                // feedback: {
+                //   color: "#4da2ff",
+                // },
+                // footer: {
+                //   textColor: "#000000",
+                //   text: "Build with ❤️ by",
+                //   company: "Asharib Ali",
+                //   companyLink: "https://github.com/AsharibAli/",
+                // },
               },
             },
           });
