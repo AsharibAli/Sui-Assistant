@@ -5,13 +5,13 @@
 <br>
 <p style="text-align: center" align="center">
 <a href="https://ibb.co/cg42Yh9"><img src="https://i.ibb.co/M2FPBkH/sui-hackathon.png" alt="sui-hackathon" border="0"></a>
-<div align="center">✨ Sui Assistant 🔥</p>
+<div align="center">✨ ***Sui Assistant*** 🔥</p>
 </div>
 <br>
 
 ## Project Overview
 
-**Sui Assistant** is a highly trained assistant that provides in-depth insights about the Sui Blockchain and its ecosystem projects. It answers queries with precision, making complex Sui topics accessible to **newcomers, researchers, enthusiasts, and developers.** <br>
+***Sui Assistant*** is a highly trained assistant that provides in-depth insights about the Sui Blockchain and its ecosystem projects. It answers queries with precision, making complex Sui topics accessible to **newcomers, researchers, enthusiasts, and developers.** <br>
 
 Sui Assistant assists developers in building dapps on the Sui Blockchain using the Move Programming Language for smart contract development through a conversational UI, powered by **OpenAI Assistants and the GPT-4o model.** <br>
 
@@ -34,15 +34,25 @@ Developers want to build on Sui but lack an interactive way to quickly and easil
 - **OpenAI Whisper API for Speech-to-Text**: Supports speech recognition to deliver a multi-modal experience.
 - **LangSmith API for Chatbot Analysis**: Analyzes chatbot interactions for optimization and refinement.
 
-![SuiFlowChart](./public/Sui Assistant-flowchart.png)
+![SuiFlowChart](./readme-assets/SuiGPT-flowchart.png)
 
-➡️ **[Deployed on Vercel, Live Demo](https://Sui Assistant.vercel.app/)** <br>
-➡️ **[Sui Assistant Full CodeBase](https://github.com/AsharibAli/Sui Assistant)** <br>
-➡️ **[Prompt used for Assistant Training](./data/prompt-engineering/prompt-engineering.md)** <br>
+## Potential Integration
+
+I have build two version of the BabyDoge-GPT, both have the same functionalites but one chatbot fix in the full viewport of the screen and another one is the pop-up version, both have same functionality and build with same APIs, these chatbot's can-be integrated into anywhere either on the complete subdomain of official website or the docs website but with the popup version, but I don't know what the team thinks about it.
+
+- **[Sui Assistant Full Version CodeBase](./sui-assistant/)**
+- **[Sui Assistant Popup Version CodeBase](./sui-assistant-popup/)**
+
+### Live Hosted web app of Sui Assistant
+
+➡️ [Full Version Web App](https://sui-assistant.vercel.app/) <br>
+➡️ [Popup Version Web App](https://sui-assistant-popup.vercel.app/) <br>
+
+➡️ **[Prompt used for Assistant Training](./prompt-engineering/prompt.md)** <br>
 ➡️ **[Sui Move Code Data examples for Training](./data/sui-codebase/)** <br>
 
 ## Future Improvements
 
-**Expanded Knowledge Base:** Improve the Sui Assistant with additional Sui or Move resources/data for more comprehensive and technical answers. <br>
+**Expanded Knowledge Base:** Improve the ***Sui Assistant*** by incorporating additional Sui Blockchain resources and Move programming language data to provide more comprehensive and technical answers.<br>
 
-**Community Analytics:** Access real-time community sentiment about the Sui Blockchain and its ecosystem projects through metrics from X and other social platforms. This allows the community to perform technical, fundamental, and on-chain analysis.
+**Enhance Community Analytics:** Access real-time community sentiment about the Sui Blockchain and its ecosystem projects through metrics from X and other social platforms for multiple use cases, such as in-depth technical, fundamental, and on-chain analysis of the $SUI Coin and its extensive ecosystem tokens.

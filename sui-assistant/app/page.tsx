@@ -24,12 +24,12 @@ const SuiAssistant = () => {
                 size: "medium",
                 iconColor: "white",
                 customIconSrc:
-                  "https://raw.githubusercontent.com/AsharibAli/project-images/main/Sui Assistant-logo.webp",
+                  "https://raw.githubusercontent.com/AsharibAli/project-images/main/SuiAssistant-logo.webp",
               },
               chatWindow: {
                 showTitle: true,
                 title:
-                  "Sui Assistant 🤖 - Help Developers to Build on Sui 👨‍💻 - For Sui Ecosystem ✨",
+                  "Sui Assistant 🤖 - For Sui Blockchain Community & Developers ✨",
                 welcomeMessage:
                   "Welcome to the Sui Assistant! I'm here to assist you with any programming or general questions you have about the Sui, and It's Ecosystem Projects.",
                 backgroundColor: "#ffffff",
