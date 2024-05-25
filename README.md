@@ -1,23 +1,23 @@
-# SuiGPT - Smart AI Assistant for Web3 Developers to build on Sui 🤖
+# Sui Assistant - Smart AI Assistant for Web3 Developers to build on Sui 🤖
 
 **(➡️ This project is a submission to the Sui Overflow Hackathon 👨‍💻)**
 
 <br>
 <p style="text-align: center" align="center">
 <a href="https://ibb.co/cg42Yh9"><img src="https://i.ibb.co/M2FPBkH/sui-hackathon.png" alt="sui-hackathon" border="0"></a>
-<div align="center">✨ SuiGPT 🔥</p>
+<div align="center">✨ Sui Assistant 🔥</p>
 </div>
 <br>
 
 ## Project Overview
 
-**SuiGPT** is a highly trained assistant that provides in-depth insights about the Sui Blockchain and its ecosystem projects. It answers queries with precision, making complex Sui topics accessible to **newcomers, researchers, enthusiasts, and developers.** <br>
+**Sui Assistant** is a highly trained assistant that provides in-depth insights about the Sui Blockchain and its ecosystem projects. It answers queries with precision, making complex Sui topics accessible to **newcomers, researchers, enthusiasts, and developers.** <br>
 
-SuiGPT assists developers in building dapps on the Sui Blockchain using the Move Programming Language for smart contract development through a conversational UI, powered by **OpenAI Assistants and the GPT-4o model.** <br>
+Sui Assistant assists developers in building dapps on the Sui Blockchain using the Move Programming Language for smart contract development through a conversational UI, powered by **OpenAI Assistants and the GPT-4o model.** <br>
 
-It helps developers code, fix, and test their smart contracts written in Move to build web3 applications on Sui. Simply enter a prompt in the UI to get accurate answers. Specially designed for the Sui community of developers and ecosystem projects, SuiGPT was developed by Asharib Ali as a submission for the **"Sui Overflow Hackathon"** <br>
+It helps developers code, fix, and test their smart contracts written in Move to build web3 applications on Sui. Simply enter a prompt in the UI to get accurate answers. Specially designed for the Sui community of developers and ecosystem projects, Sui Assistant was developed by Asharib Ali as a submission for the **"Sui Overflow Hackathon"** <br>
 
-**SuiGPT** offers many great features to help developers build and ship quickly on **Sui Blockchain.** <br>
+**Sui Assistant** offers many great features to help developers build and ship quickly on **Sui Blockchain.** <br>
 
 ## Problem Statement with Solution
 
@@ -34,15 +34,15 @@ Developers want to build on Sui but lack an interactive way to quickly and easil
 - **OpenAI Whisper API for Speech-to-Text**: Supports speech recognition to deliver a multi-modal experience.
 - **LangSmith API for Chatbot Analysis**: Analyzes chatbot interactions for optimization and refinement.
 
-![SuiFlowChart](./public/SuiGPT-flowchart.png)
+![SuiFlowChart](./public/Sui Assistant-flowchart.png)
 
-➡️ **[Deployed on Vercel, Live Demo](https://suigpt.vercel.app/)** <br>
-➡️ **[SuiGPT Full CodeBase](https://github.com/AsharibAli/SuiGPT)** <br>
+➡️ **[Deployed on Vercel, Live Demo](https://Sui Assistant.vercel.app/)** <br>
+➡️ **[Sui Assistant Full CodeBase](https://github.com/AsharibAli/Sui Assistant)** <br>
 ➡️ **[Prompt used for Assistant Training](./data/prompt-engineering/prompt-engineering.md)** <br>
 ➡️ **[Sui Move Code Data examples for Training](./data/sui-codebase/)** <br>
 
 ## Future Improvements
 
-**Expanded Knowledge Base:** Improve the SuiGPT with additional Sui or Move resources/data for more comprehensive and technical answers. <br>
+**Expanded Knowledge Base:** Improve the Sui Assistant with additional Sui or Move resources/data for more comprehensive and technical answers. <br>
 
 **Community Analytics:** Access real-time community sentiment about the Sui Blockchain and its ecosystem projects through metrics from X and other social platforms. This allows the community to perform technical, fundamental, and on-chain analysis.

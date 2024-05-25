@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect } from "react";
 
-const Celestia = () => {
+const SuiAssistant = () => {
   useEffect(() => {
     // Check if the script is already loaded
     if (
@@ -24,14 +24,14 @@ const Celestia = () => {
                 size: "medium",
                 iconColor: "white",
                 customIconSrc:
-                  "https://raw.githubusercontent.com/AsharibAli/project-images/main/SuiGPT-logo.webp",
+                  "https://raw.githubusercontent.com/AsharibAli/project-images/main/Sui Assistant-logo.webp",
               },
               chatWindow: {
                 showTitle: true,
                 title:
-                  "SuiGPT 🤖 - Help Developers to Build on Sui 👨‍💻 - For Sui Ecosystem ✨",
+                  "Sui Assistant 🤖 - Help Developers to Build on Sui 👨‍💻 - For Sui Ecosystem ✨",
                 welcomeMessage:
-                  "Welcome to the SuiGPT! I'm here to assist you with any programming or general questions you have about the Sui, and It's Ecosystem Projects.",
+                  "Welcome to the Sui Assistant! I'm here to assist you with any programming or general questions you have about the Sui, and It's Ecosystem Projects.",
                 backgroundColor: "#ffffff",
                 fontSize: 16,
                 poweredByTextColor: "#000000",
@@ -40,7 +40,7 @@ const Celestia = () => {
                   textColor: "#ffffff",
                   showAvatar: true,
                   avatarSrc:
-                    "https://raw.githubusercontent.com/AsharibAli/project-images/main/SuiGPT-logo.webp",
+                    "https://raw.githubusercontent.com/AsharibAli/project-images/main/Sui Assistant-logo.webp",
                 },
                 userMessage: {
                   backgroundColor: "#000000",
@@ -80,4 +80,4 @@ const Celestia = () => {
   );
 };
 
-export default Celestia;
+export default SuiAssistant;
