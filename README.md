@@ -5,7 +5,7 @@
 <br>
 <p style="text-align: center" align="center">
 <a href="https://ibb.co/cg42Yh9"><img src="https://i.ibb.co/M2FPBkH/sui-hackathon.png" alt="sui-hackathon" border="0"></a>
-<div align="center">✨ ***Sui Assistant*** 🔥</p>
+<div align="center">✨ **Sui Assistant** 🔥</p>
 </div>
 <br>
 
