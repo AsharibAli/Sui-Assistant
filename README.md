@@ -38,7 +38,7 @@ Developers want to build on Sui but lack an interactive way to quickly and easil
 
 ## Potential Integration
 
-I have build two version of the BabyDoge-GPT, both have the same functionalites but one chatbot fix in the full viewport of the screen and another one is the pop-up version, both have same functionality and build with same APIs, these chatbot's can-be integrated into anywhere either on the complete subdomain of official website or the docs website but with the popup version, but I don't know what the team thinks about it.
+I have build two version of the Sui Assistant, both have the same functionalites but one chatbot fix in the full viewport of the screen and another one is the pop-up version, both have same functionality and build with same APIs, these chatbot's can-be integrated into anywhere either on the complete subdomain of official website or the docs website but with the popup version, but I don't know what the team thinks about it.
 
 - **[Sui Assistant Full Version CodeBase](./sui-assistant/)**
 - **[Sui Assistant Popup Version CodeBase](./sui-assistant-popup/)**
