@@ -26,7 +26,7 @@ Developers want to build on Sui but lack an interactive way to quickly and easil
 ## Tech Stack
 
 - **OpenAI Assistant APIs**: Powers the natural language processing abilities to deliver accurate responses and maintain a conversational style with (function calling, code interpreter, and file search).
-- **FlowiseAI**: Enables visual programming to streamline the development of conversational AI workflows.
+- **FlowiseAI**: Customized LLM orchestration flow.
 - **Next.js, TypeScript, TailwindCSS**: Provides a seamless, dynamic user interface with a consistent design.
 - **OpenAI GPT-4o and Moderation APIs**: Handles advanced chatbot responses and content moderation.
 - **Google Custom Search API**: Allows the chatbot to fetch relevant information online to provide up-to-date answers.
@@ -38,7 +38,7 @@ Developers want to build on Sui but lack an interactive way to quickly and easil
 
 ## Potential Integration
 
-I have build two version of the Sui Assistant, both have the same functionalites but one chatbot fix in the full viewport of the screen and another one is the pop-up version, both have same functionality and build with same APIs, these chatbot's can-be integrated into anywhere either on the complete subdomain of official website or the docs website but with the popup version, but I don't know what the team thinks about it.
+I have built two versions of the Sui Assistant, both have the same functionalities but one chatbot fixes in the full viewport of the screen and the other one is the pop-up version, both have the same functionality and are built with the same APIs, these chatbots can-be integrated into anywhere either on the complete subdomain of official website or the docs website but with the popup version, but I don't know what the team thinks about it.
 
 - **[Sui Assistant Full Version CodeBase](./sui-assistant/)**
 - **[Sui Assistant Popup Version CodeBase](./sui-assistant-popup/)**
