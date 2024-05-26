@@ -34,7 +34,7 @@ const SuiAssistant = () => {
                   "Welcome to the Sui Assistant! I'm here to assist you with any programming or general questions you have about the Sui, and It's Ecosystem Projects.",
                 backgroundColor: "#ffffff",
                 fontSize: 16,
-                poweredByTextColor: "#000000",
+                // poweredByTextColor: "#000000",
                 botMessage: {
                   backgroundColor: "#4da2ff",
                   textColor: "#ffffff",
@@ -55,15 +55,15 @@ const SuiAssistant = () => {
                   textColor: "#000000",
                   sendButtonColor: "#4da2ff",
                 },
-                // feedback: {
-                //   color: "#4da2ff",
-                // },
-                // footer: {
-                //   textColor: "#000000",
-                //   text: "Build with ❤️ by",
-                //   company: "Asharib Ali",
-                //   companyLink: "https://github.com/AsharibAli/",
-                // },
+                feedback: {
+                  color: "#4da2ff",
+                },
+                footer: {
+                  textColor: "#000000",
+                  text: "Build with ❤️ by",
+                  company: "Asharib Ali",
+                  companyLink: "https://github.com/AsharibAli/",
+                },
               },
             },
           });

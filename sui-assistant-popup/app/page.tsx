@@ -47,15 +47,15 @@ const SuiAssistantPopup = () => {
             textColor: "#000000",
             sendButtonColor: "#4da2ff",
           },
-          // feedback: {
-          //   color: "#4da2ff",
-          // },
-          // footer: {
-          //   textColor: "#000000",
-          //   text: "Build with ❤️ by",
-          //   company: "Asharib Ali",
-          //   companyLink: "https://github.com/AsharibAli/",
-          // },
+          feedback: {
+            color: "#4da2ff",
+          },
+          footer: {
+            textColor: "#000000",
+            text: "Build with ❤️ by",
+            company: "Asharib Ali",
+            companyLink: "https://github.com/AsharibAli/",
+          },
         },
       },
     })`;
