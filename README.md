@@ -5,7 +5,7 @@
 <br>
 <p style="text-align: center" align="center">
 <a href="https://ibb.co/cg42Yh9"><img src="https://i.ibb.co/M2FPBkH/sui-hackathon.png" alt="sui-hackathon" border="0"></a>
-<div align="center">✨ **Sui Assistant** 🔥</p>
+<div align="center"> <strong> ✨ Sui Assistant 🔥 </strong> </p>
 </div>
 <br>
 
@@ -55,4 +55,6 @@ I have build two version of the BabyDoge-GPT, both have the same functionalites 
 
 **Expanded Knowledge Base:** Improve the ***Sui Assistant*** by incorporating additional Sui Blockchain resources and Move programming language data to provide more comprehensive and technical answers.<br>
 
-**Enhance Community Analytics:** Access real-time community sentiment about the Sui Blockchain and its ecosystem projects through metrics from X and other social platforms for multiple use cases, such as in-depth technical, fundamental, and on-chain analysis of the $SUI Coin and its extensive ecosystem tokens.
+**Enhance Community Analytics:** Access real-time community sentiment about the Sui Blockchain and its ecosystem projects through metrics from X and other social platforms for multiple use cases, such as in-depth technical, fundamental, and on-chain analysis of the $SUI Coin and its extensive ecosystem tokens. <br>
+
+**OnChain AI Swap:** Effortlessly swap your Sui Coins and ecosystem tokens directly using a simple and intuitive prompt.
