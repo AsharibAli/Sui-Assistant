@@ -23,10 +23,26 @@ It helps developers code, fix, and test their smart contracts written in Move to
 
 Developers want to build on Sui but lack an interactive way to quickly and easily create full-stack web3 applications. They might use ChatGPT, but it's trained on outdated data and doesn't know about the latest developments. Plus, GPT Plus costs $20 per month. That's why we need a platform/chatbot to address this issue: "Help developers write, fix, and test their smart contracts in Move for the Sui Blockchain" in a conversational way. I have trained it on a massive amount of Sui Codebase & Ecosystem projects data for building on Sui and have prompt-engineered it to achieve the best results.
 
+## Features
+
+🎯 Personalized answers for community & developers. <br>
+🕒 Real-time updates from Internet. <br>
+👨‍💻 Chat via CUI (Conversational User Interface). <br>
+🎤 Voice functionality for easy interaction. <br>
+👍 Provide Feedback. <br>
+☑️12 Limit Messages per 24 hours. <br>
+
+## Benefits
+
+🌟 Enhances developer experience. <br>
+📰 Keeps the Sui community informed. <br>
+🌐 Makes Sui more accessible. <br>
+📈 Fosters greater engagement and project development. <br>
+
 ## Tech Stack
 
 - **OpenAI Assistant APIs**: Powers the natural language processing abilities to deliver accurate responses and maintain a conversational style with (function calling, code interpreter, and file search).
-- **FlowiseAI**: Customized LLM orchestration flow.
+- **FlowiseAI**: Customized LLM orchestration flow tool.
 - **Next.js, TypeScript, TailwindCSS**: Provides a seamless, dynamic user interface with a consistent design.
 - **OpenAI GPT-4o and Moderation APIs**: Handles advanced chatbot responses and content moderation.
 - **Google Custom Search API**: Allows the chatbot to fetch relevant information online to provide up-to-date answers.
@@ -34,7 +50,12 @@ Developers want to build on Sui but lack an interactive way to quickly and easil
 - **OpenAI Whisper API for Speech-to-Text**: Supports speech recognition to deliver a multi-modal experience.
 - **LangSmith API for Chatbot Analysis**: Analyzes chatbot interactions for optimization and refinement.
 
-![SuiFlowChart](./readme-assets/SuiGPT-flowchart.png)
+**=> How Everything is Connected?(FlowChart)**
+![SuiFlowChart](./readme-assets/SuiAssistant-flowchart.png)
+
+**=> (Behind the Scene) Flowise Flow Of Sui Assistant**
+![flowise-flow-of-sui-assistant](./readme-assets/flowise-flow-of-sui-assistant.png)
+
 
 ## Potential Integration
 
