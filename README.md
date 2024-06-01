@@ -1,6 +1,6 @@
 # Sui Assistant - Smart AI Assistant for Web3 Developers to build on Sui 🤖
 
-**(➡️ This project is a submission to the Sui Overflow Hackathon 👨‍💻)**
+**➡️ This project is a submission to the Sui Overflow Hackathon 👨‍💻**
 
 <br>
 <p style="text-align: center" align="center">
@@ -50,7 +50,11 @@ Developers want to build on Sui but lack an interactive way to quickly and easil
 - **OpenAI Whisper API for Speech-to-Text**: Supports speech recognition to deliver a multi-modal experience.
 - **LangSmith API for Chatbot Analysis**: Analyzes chatbot interactions for optimization and refinement.
 
-**=> How Everything is Connected?(FlowChart)**
+**=> How Everything is Connected? (FlowChart)**
+
+- [Flowise Github Repositry](https://github.com/AsharibAli/flowise) (Deployed on Render & Connected to Chatbot UI via APIs programmatically).
+- [FlowiseChatEmbed Github Repositry](https://github.com/AsharibAli/FlowiseChatEmbed) (UI/UX of Chatbot, Connected via CDN)
+
 ![SuiFlowChart](./readme-assets/SuiAssistant-flowchart.png)
 
 **=> (Behind the Scene) Flowise Flow Of Sui Assistant**
