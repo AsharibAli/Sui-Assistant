@@ -6,7 +6,7 @@ const SuiAssistantPopup = () => {
     // Create a script element
     const script = document.createElement("script");
     script.type = "module";
-    script.innerHTML = `import Chatbot from "https://cdn.jsdelivr.net/gh/AsharibAli/FlowiseChatEmbed@latest/dist/web.js"
+    script.innerHTML = `import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
     Chatbot.init({
       chatflowid: "e8564835-ffcb-41c6-8f6c-7e585a710702",
       apiHost: "https://flowise-r1c3.onrender.com",
